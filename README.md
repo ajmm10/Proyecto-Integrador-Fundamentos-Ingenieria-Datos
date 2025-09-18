@@ -1,5 +1,7 @@
 Proyecto Integrador - Fundamentos de Ingeniería de Datos
 ==============================
+> Nota: La plantilla citada en la consigna (khuyentran1401/cookiecutter-data-engineering) no está disponible públicamente.
+> Se utilizó **Cookiecutter Data Science (DrivenData) v1** como sustituto equivalente para la estructura base.
 
 Actividades posteriores de la materia funadamentos de ingenieria de datos
 
