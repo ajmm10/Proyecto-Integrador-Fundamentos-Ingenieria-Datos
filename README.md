@@ -1,12 +1,21 @@
-Proyecto Integrador - Fundamentos de Ingeniería de Datos
-==============================
-> Nota: La plantilla citada en la consigna (khuyentran1401/cookiecutter-data-engineering) no está disponible públicamente.
-> Se utilizó **Cookiecutter Data Science (DrivenData) v1** como sustituto equivalente para la estructura base.
+# Proyecto Integrador - Fundamentos de Ingeniería de Datos
 
-Actividades posteriores de la materia funadamentos de ingenieria de datos
+> **Materia:** Fundamentos de Ingeniería de Datos  
+> **Repositorio:** `Proyecto-Integrador-Fundamentos-Ingenieria-Datos`  
+> **Autor:** Ángel de Jesús May Magaña (ajmm10)
 
-Project Organization
-------------
+## Descripción
+Este repositorio contiene la estructura base del **Proyecto Integrador** para la asignatura de *Fundamentos de Ingeniería de Datos*. El objetivo es contar con un esqueleto ordenado para desarrollar pipelines, prácticas de calidad de datos, documentación y experimentación reproducible.
+
+> **Nota sobre la plantilla:**  
+> La plantilla referida en la consigna (`khuyentran1401/cookiecutter-data-engineering`) no está disponible públicamente.  
+> Como sustituto equivalente y aceptado en la industria, se utilizó **Cookiecutter Data Science (DrivenData) v1**, que provee una estructura clara para proyectos de datos.
+
+---
+
+## Estructura del proyecto
+
+
 
     ├── LICENSE
     ├── Makefile           <- Makefile with commands like `make data` or `make train`
