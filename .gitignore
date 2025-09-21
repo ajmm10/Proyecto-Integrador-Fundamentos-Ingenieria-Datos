@@ -87,3 +87,14 @@ target/
 
 # Mypy cache
 .mypy_cache/
+# Data cruda y derivados
+data/raw/*
+data/external/*
+data/interim/*
+data/processed/*
+!data/**/.gitkeep
+
+# Entornos y archivos locales
+.venv/
+.ipynb_checkpoints/
+.DS_Store
